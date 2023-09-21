@@ -32,8 +32,6 @@
     margin-top: 85px;
 }
 
-.banner-photo {}
-
 .banner-img {
     width: 500px;
     height: 100vh;
@@ -45,6 +43,73 @@
     border-radius: 8px;
     color: white;
     background: #E55473;
-    border:none;
+    border: none;
     margin-top: 15px;
+}
+
+.flowers-title {
+    text-align: center;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 100px;
+}
+
+.flowers-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    width: 550px;
+    margin: 18px auto 100px;
+}
+
+.flowers {
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+}
+
+.flower {
+    width: 400px;
+    height: 500px;
+    background-color: #E55473;
+    border-radius: 190px 190px 0px 0px;
+
+}
+
+.flower-img {
+    padding: 28px;
+}
+
+.flower-1 {
+    margin-top: 44px
+}
+
+.flower-2 {
+    margin-top: 50px
+}
+
+.flower-bg-1 {
+    background-color: #F2DEE7;
+}
+
+.flower-bg-2 {
+    background-color: #D9EFF1;
+}
+
+.flower-bg-3 {
+    background-color: #E3EBDB;
+}
+
+.flower-details {
+    text-align: center;
+    padding: 25px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
 }
