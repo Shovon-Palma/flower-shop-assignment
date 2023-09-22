@@ -229,7 +229,7 @@
     height: 396px;
 }
 .deal-container {
-    background-color: red;
+
 }
 
 .deal {
@@ -237,6 +237,7 @@
     width: 98%;
     margin: 100px auto;
     position: relative;
+    background-color: red;
 }
 
 .deals-title {
