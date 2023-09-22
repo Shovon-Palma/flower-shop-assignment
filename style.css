@@ -113,3 +113,30 @@
     font-weight: 700;
     text-decoration-line: underline;
 }
+
+.service-containt {
+    background-color: #F4F4F4;
+    width: 96%;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.service {
+    width: 200px;
+    height: 100px;
+
+}
+
+.service-title {
+    text-align: center;
+}
+
+.service-img {
+    width: 50px;
+    margin: 10px auto;
+    display: block;
+}
