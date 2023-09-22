@@ -228,9 +228,11 @@
     width: 300px;
     height: 396px;
 }
+.deal-container {
+    background-color: red;
+}
 
 .deal {
-    background-image: url("/Flower Asset/Rectangle9.png");
     height: 449px;
     width: 98%;
     margin: 100px auto;
