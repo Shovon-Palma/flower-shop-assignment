@@ -175,6 +175,7 @@
     height: 400px;
     padding: 30px;
 }
+
 .btn {
     font-weight: 700;
     padding: 20px 43px;
@@ -187,10 +188,43 @@
     margin: auto;
     margin-top: 18px;
 }
+
 .red {
     color: #E86883;
 }
+
 .offer-text {
     width: 50%;
     padding: 100px;
+}
+
+.instagram-title {
+    text-align: center;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 100px;
+}
+
+.instagram-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 550px;
+    margin: 15px auto;
+}
+
+.flower-photos {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.flower-instagram {
+    width: 300px;
+    height: 396px;
 }
